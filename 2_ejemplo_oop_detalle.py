@@ -3,7 +3,7 @@
 Programación orientada a objectos [Python]
 Ejemplos de clase
 ---------------------------
-Autor: Inove Coding School
+Autor: Torres Molina Emmanuel
 Version: 1.1
 
 Descripcion:
@@ -11,8 +11,8 @@ Programa creado para mostrar ejemplos prácticos para contrastar
 contra la programamación procedural
 '''
 
-__author__ = "Inove Coding School"
-__email__ = "alumnos@inove.com.ar"
+__author__ = "Emmanuel O. Torres Molina"
+__email__ = "emmaotm@gmail.com"
 __version__ = "1.1"
 
 
